@@ -7,3 +7,19 @@
 - 4-lastlines: Displays the last 10 lines of /etc/passwd.
 - 5-firstlines: Displays the first 10 lines of /etc/passwd.
 - 6-third_line: Displays the third line of iacta.
+- 7-file: Creates a file with a special name containing Best School.
+- 8-cwd_state: Saves the directory listing to ls_cwd_content.
+- 9-duplicate_last_line: Duplicates the last line of iacta.
+- 10-no_more_js: Deletes JavaScript files in the current directory tree.
+- 11-directories: Counts directories and subdirectories.
+- 12-newest_files: Displays the 10 newest entries.
+- 13-unique: Displays words that appear only once.
+- 14-findthatword: Displays lines containing root in /etc/passwd.
+- 15-countthatword: Counts lines containing bin in /etc/passwd.
+- 16-whatsnext: Displays root matches and the next three lines.
+- 17-hidethisword: Displays lines that do not contain bin.
+- 18-letteronly: Displays lines starting with a letter.
+- 19-AZ: Replaces A with Z and c with e.
+- 20-hiago: Removes c and C from input.
+- 21-reverse: Reverses input.
+- 22-users_and_homes: Displays users and home directories, sorted.
